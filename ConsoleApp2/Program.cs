@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Upload to GitHub");
+
+
+Console.WriteLine("Denne skal også ligge i github");
