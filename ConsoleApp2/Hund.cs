@@ -1,6 +1,6 @@
 ﻿
 
-    internal class Hund
+public class Hund
 {
     public string Race { get; set; }
     public string Name { get; }
