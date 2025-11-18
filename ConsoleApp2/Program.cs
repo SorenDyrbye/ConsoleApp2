@@ -8,3 +8,6 @@ dog.noice();
 Console.WriteLine($"Dog Name: {dog.Name}");
 Console.WriteLine($"Dog Race: {dog.Race}");
 Console.WriteLine($"Dog Age: {dog.Age}");
+
+Hund Sofus = new Hund("Sofus", "Dansk Svensk", 5);
+Console.WriteLine($"Dog Name: {Sofus.Name}");
