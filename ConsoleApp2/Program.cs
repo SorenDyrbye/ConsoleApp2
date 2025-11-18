@@ -15,4 +15,4 @@ Sofus.noice();
 Console.WriteLine("Dette er en ændring lavet i github");
 Console.WriteLine($"Dog Name: {Sofus.Name}");
 Console.WriteLine(dog.IsTheDogAGoodBoy());
-Console.WriteLine(dog.IsTheDogAGoodBoy());
+
