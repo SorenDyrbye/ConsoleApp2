@@ -13,3 +13,5 @@ Hund Sofus = new Hund("Sofus", "Dansk Svensk", 5);
 Console.WriteLine($"Dog Name: {Sofus.Name}");
 Sofus.noice();
 Console.WriteLine("Dette er en ændring lavet i github");
+Console.WriteLine($"Dog Name: {Sofus.Name}");
+Console.WriteLine(dog.IsTheDogAGoodBoy());
