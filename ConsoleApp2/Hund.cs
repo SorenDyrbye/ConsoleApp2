@@ -19,7 +19,10 @@ public class Hund
         System.Console.WriteLine("Wuff Wuff");
     }
 
-    
+    public string IsTheDogAGoodBoy()
+    {
+        return true ? "This dog is a good boy" : "This dog is not a good boy";
+    }
 
 }
 
